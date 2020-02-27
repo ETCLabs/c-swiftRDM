@@ -1,0 +1,5 @@
+module CrdmMac [system] {
+    header "shim.h"
+    link "RDM"
+    export *
+}
