@@ -1,0 +1,6 @@
+[submodule "RDM"]
+	path = RDM
+	url = https://github.com/ETCLabs/RDM
+[submodule "ios-cmake"]
+	path = ios-cmake
+	url = https://github.com/leetal/ios-cmake
