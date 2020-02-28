@@ -28,7 +28,7 @@ modifying this software, we encourage posting on the
 cd c-swiftRDM
 swift package update
 ```
-2. Install pkg-config (using Homebrew):
+2. Install pkg-config (using [Homebrew](https://brew.sh/)):
 
 `brew install pkg-config`
 
