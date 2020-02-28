@@ -31,6 +31,7 @@ swift package update
 2. Install pkg-config (using Homebrew):
 
 `brew install pkg-config`
+
 3. Install the RDM library:
 ```
 cd RDM 
