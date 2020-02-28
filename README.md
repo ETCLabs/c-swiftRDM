@@ -23,10 +23,10 @@ modifying this software, we encourage posting on the
 
 ## Build
 
-1. Update the package dependancies:
+1. Intialise the submodule dependancies ([RDM](https://github.com/ETCLabs/RDM) and [iOS CMake](https://github.com/leetal/ios-cmake)):
 ```
 cd c-swiftRDM
-swift package update
+git submodule update --init --recursive
 ```
 2. Install pkg-config (using [Homebrew](https://brew.sh/)):
 
