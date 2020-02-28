@@ -2,7 +2,7 @@
 
 A [Swift Package Manager](https://swift.org/package-manager/) wrapper around ETC's RDM helper library for the ANSI E1.20 (RDM) protocol.
 
-# RDM
+## RDM
 
 [![Build Status](https://dev.azure.com/ETCLabs/RDM/_apis/build/status/ETCLabs.RDM?branchName=develop)](https://dev.azure.com/ETCLabs/RDM/_build/latest?definitionId=3&branchName=develop)
 
@@ -39,7 +39,7 @@ To check the RDM library has been correctly made in the right location with a pk
 
 ## About this ETCLabs Project
 
-RDM is official, open-source software developed by ETC employees and is designed
+[RDM](https://github.com/ETCLabs/RDM) is official, open-source software developed by ETC employees and is designed
 to interact with ETC products. For challenges using, integrating, compiling, or
 modifying this software, we encourage posting on the
 [issues page](https://github.com/ETCLabs/RDM/issues) of the RDM project.
